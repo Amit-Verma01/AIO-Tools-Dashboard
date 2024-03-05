@@ -13,7 +13,7 @@ Material UI makes styling really easy for the react front end. Redux-toolkit mak
 
 ### Optimizations
 
-There is abutton added for Settings page. That could be implemented with admin having the choice of adding new users.
+There is a button added for Settings page. That could be implemented with admin having the choice of adding new users.
 
 ### Lessons Learned
 
